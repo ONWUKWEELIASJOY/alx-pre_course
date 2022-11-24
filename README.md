@@ -1,2 +1,1 @@
-My first readme
-git pull
+My first readme Script
